@@ -1,0 +1,61 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "nombre1": "Gonzalo",
+      "nombre2": "Martin",
+      "apellido1": "Rodriguez",
+      "apellido2": "Silva",
+      "documento": "12345678",
+      "documento_tipo": "CI",
+      "nacimiento_fecha": "1/01/1900",
+      "nacimiento_lugar": "Uruguay",
+      "direccion": "+23234234",
+      "departamento": "+234234234",
+      "pais": "+234",
+      "telefono": "+234",
+      "celular": "+324",
+      "correo": "g@g.com",
+      "mutualista": "Medica",
+      "emergencia": "UCM",
+      "contacto": "Agustin",
+      "contacto_tel": "23423"
+    },
+    {
+      "nombre1": "Agustin",
+      "nombre2": "Fernando",
+      "apellido1": "Silva",
+      "apellido2": "Rodriguez",
+      "documento_tipo": "CI",
+      "documento": "234324",
+      "nacimiento_fecha": "01/01/1930",
+      "nacimiento_lugar": "Uruguay",
+      "telefono": "324324",
+      "celular": "324234",
+      "correo": "a@a.com",
+      "mutualista": "Medica Uruguaya",
+      "emergencia": "SEMM",
+      "contacto": "Gonzalo Silva",
+      "contacto_tel": "234324",
+      "id": 2
+    },
+    {
+      "nombre1": "asd",
+      "nombre2": "j",
+      "apellido1": "ij",
+      "apellido2": "ij",
+      "documento_tipo": "ij",
+      "documento": "i",
+      "nacimiento_fecha": "j",
+      "nacimiento_lugar": "iij",
+      "celular": "ijji",
+      "correo": "ji",
+      "mutualista": "ij",
+      "emergencia": "ji",
+      "contacto": "ji",
+      "contacto_tel": "ji",
+      "telefono": "324",
+      "id": 3
+    }
+  ]
+}
